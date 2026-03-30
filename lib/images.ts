@@ -25,7 +25,7 @@ export const SITE_IMAGES: SiteImage[] = [
     key:     'hero-bg',
     label:   'Hero Background',
     section: 'Hero',
-    url:     'https://lh3.googleusercontent.com/p/AF1QipOINn_alRfm-d99Tt8X2aRJ68zpdGDYWITf97I3=w1600-h1067-k-no',
+    url:     'https://images.unsplash.com/photo-1752758059740-fd250168138e?w=1600&q=85',
     seed:    'rangoon-teahouse-myanmar',
     w: 1600, h: 1000,
   },
